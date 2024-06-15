@@ -43,5 +43,3 @@ This repository explores different clustering techniques applied to vectorized d
 ## Conclusion
 
 This project demonstrates the application of various clustering algorithms on text data represented by different vectorization techniques. Each combination of vectorizer and clustering algorithm resulted in different optimal parameters or cluster counts, indicating the versatility and adaptability of clustering methods in identifying structure within text data.
-
-Feel free to modify and expand upon this `README.md` with additional details or insights gained from your clustering analyses.
